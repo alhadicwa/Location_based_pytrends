@@ -21,7 +21,7 @@ Google Trends does not provide raw search volume. Instead, it provides a **Relat
    pip install pytrends pandas
 2.Run the Script:
 The script includes a time.sleep(10) delay to respect Google's rate limits and prevent 429 Too Many Requests errors.
-Sample Output:
+## Sample Output:
 --- Final Summary for 'Sheraton' in US-NY ---
 February 2024 Average Score: 43.50
 February 2025 Average Score: 42.75
